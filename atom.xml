@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://christ2liu.github.io/blog</id>
     <title>RHINO牛博客</title>
-    <updated>2019-12-12T01:15:06.604Z</updated>
+    <updated>2019-12-12T01:18:10.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://christ2liu.github.io/blog"/>
     <link rel="self" href="https://christ2liu.github.io/blog/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://christ2liu.github.io/blog/images/avatar.png</logo>
     <icon>https://christ2liu.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2019, RHINO牛博客</rights>
+    <entry>
+        <title type="html"><![CDATA[科技细分炒作线]]></title>
+        <id>https://christ2liu.github.io/blog/post/ke-ji-xi-fen-chao-zuo-xian</id>
+        <link href="https://christ2liu.github.io/blog/post/ke-ji-xi-fen-chao-zuo-xian">
+        </link>
+        <updated>2019-12-12T01:16:00.000Z</updated>
+        <content type="html"><![CDATA[<p>OLED实际在炒MINILED</p>
+<p>手机光学实际在炒TOF<br>
+<img src="https://christ2liu.github.io/blog/post-images/1576113430887.jpg" alt=""></p>
+<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1576113446723.jpg" alt=""></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电子2020]]></title>
         <id>https://christ2liu.github.io/blog/post/dian-zi-2020</id>
@@ -814,15 +826,6 @@
 二十年而耳顺：到这个时候已经完全是看山是山，看水是水了。<br>
 三十年而从心所欲，不逾矩：知行高度合一，操作随心所欲，心里不再有过多的纠结。</p>
 <p>当然这只是按时间划分，得是你非常有天赋，而且非常努力的那种，有的人炒一辈子也立不起来，大家对号入座，你现在多大年纪（股齡）了？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4G和AI+5G时代投资受益产业链]]></title>
-        <id>https://christ2liu.github.io/blog/post/4g-he-ai5g-shi-dai-tou-zi-shou-yi-chan-ye-lian</id>
-        <link href="https://christ2liu.github.io/blog/post/4g-he-ai5g-shi-dai-tou-zi-shou-yi-chan-ye-lian">
-        </link>
-        <updated>2019-11-20T08:22:55.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1574238198676.jpg" alt=""></figure>
 ]]></content>
     </entry>
 </feed>
