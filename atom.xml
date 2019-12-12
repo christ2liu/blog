@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://christ2liu.github.io/blog</id>
     <title>RHINO牛博客</title>
-    <updated>2019-12-12T01:18:10.615Z</updated>
+    <updated>2019-12-12T01:22:44.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://christ2liu.github.io/blog"/>
     <link rel="self" href="https://christ2liu.github.io/blog/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://christ2liu.github.io/blog/images/avatar.png</logo>
     <icon>https://christ2liu.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2019, RHINO牛博客</rights>
+    <entry>
+        <title type="html"><![CDATA[A股科技龙头公司全名单]]></title>
+        <id>https://christ2liu.github.io/blog/post/a-gu-ke-ji-long-tou-gong-si-quan-ming-dan</id>
+        <link href="https://christ2liu.github.io/blog/post/a-gu-ke-ji-long-tou-gong-si-quan-ming-dan">
+        </link>
+        <updated>2019-12-12T01:21:24.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1576113725438.jpg" alt=""></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技细分炒作线]]></title>
         <id>https://christ2liu.github.io/blog/post/ke-ji-xi-fen-chao-zuo-xian</id>
@@ -809,23 +818,6 @@
 <p>换股操作 ，持有大科技类股票为主（心里变化：继续持有300598诚迈科技,000066中国长城，600536中国软件；603501韦尔股份，603986兆易创新；300661圣邦科技；603160汇顶科技；600745闻泰科技）</p>
 <p>明日计划：</p>
 <p>等待机会卖出持仓，波段操作</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[股民阶层]]></title>
-        <id>https://christ2liu.github.io/blog/post/gu-min-jie-ceng</id>
-        <link href="https://christ2liu.github.io/blog/post/gu-min-jie-ceng">
-        </link>
-        <updated>2019-11-20T08:23:39.000Z</updated>
-        <content type="html"><![CDATA[<p>《论语》中将人生每十年做了一个定义：<br>
-子曰：“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。”</p>
-<p>如果简单的按股龄划分，股民的时间轴应该是这样的：</p>
-<p>五年而立：有一些简单的方式方法，道理也都明白了。<br>
-十年而不惑：见到的走势多了，所以对市场有了自己的理解。<br>
-十五年而知天命：不但了解市场，而且还了解自己的内心，知道自己想要什么，不会去操作违背自己心性的操作。<br>
-二十年而耳顺：到这个时候已经完全是看山是山，看水是水了。<br>
-三十年而从心所欲，不逾矩：知行高度合一，操作随心所欲，心里不再有过多的纠结。</p>
-<p>当然这只是按时间划分，得是你非常有天赋，而且非常努力的那种，有的人炒一辈子也立不起来，大家对号入座，你现在多大年纪（股齡）了？</p>
 ]]></content>
     </entry>
 </feed>
