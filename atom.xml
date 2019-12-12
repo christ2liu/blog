@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://christ2liu.github.io/blog</id>
     <title>RHINO牛博客</title>
-    <updated>2019-12-12T07:14:44.213Z</updated>
+    <updated>2019-12-12T08:39:32.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://christ2liu.github.io/blog"/>
     <link rel="self" href="https://christ2liu.github.io/blog/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://christ2liu.github.io/blog/images/avatar.png</logo>
     <icon>https://christ2liu.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2019, RHINO牛博客</rights>
+    <entry>
+        <title type="html"><![CDATA[中信研报有研新材彤程新材]]></title>
+        <id>https://christ2liu.github.io/blog/post/zhong-xin-yan-bao-you-yan-xin-cai-tong-cheng-xin-cai</id>
+        <link href="https://christ2liu.github.io/blog/post/zhong-xin-yan-bao-you-yan-xin-cai-tong-cheng-xin-cai">
+        </link>
+        <updated>2019-12-12T08:35:02.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://christ2liu.github.io/blog/post-images/1576139917293.jpg" alt=""><br>
+<img src="https://christ2liu.github.io/blog/post-images/1576139923917.jpg" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[股市收评-两市震荡走弱 半导体板块崛起]]></title>
         <id>https://christ2liu.github.io/blog/post/gu-shi-shou-ping-liang-shi-zhen-dang-zou-ruo-ban-dao-ti-ban-kuai-jue-qi</id>
@@ -806,15 +816,6 @@
 <p>原文先发于公号：xxxb百箭，该公号为本人设立并亲手打理，欢迎关注。</p>
 <p>链接：https://mp.weixin.qq.com/s/LHr2k0JxNRSqvYiphyYSYA</p>
 <p>https://mp.weixin.qq.com/s/LHr2k0JxNRSqvYiphyYSYA</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[医药产业链]]></title>
-        <id>https://christ2liu.github.io/blog/post/yi-yao-chan-ye-lian</id>
-        <link href="https://christ2liu.github.io/blog/post/yi-yao-chan-ye-lian">
-        </link>
-        <updated>2019-11-21T07:18:18.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1574320879970.jpg" alt=""></figure>
 ]]></content>
     </entry>
 </feed>
