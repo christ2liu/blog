@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://christ2liu.github.io/blog</id>
     <title>RHINO牛博客</title>
-    <updated>2019-12-11T07:26:58.560Z</updated>
+    <updated>2019-12-12T01:15:06.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://christ2liu.github.io/blog"/>
     <link rel="self" href="https://christ2liu.github.io/blog/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://christ2liu.github.io/blog/images/avatar.png</logo>
     <icon>https://christ2liu.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2019, RHINO牛博客</rights>
+    <entry>
+        <title type="html"><![CDATA[电子2020]]></title>
+        <id>https://christ2liu.github.io/blog/post/dian-zi-2020</id>
+        <link href="https://christ2liu.github.io/blog/post/dian-zi-2020">
+        </link>
+        <updated>2019-12-12T01:13:14.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1576113268200.jpg" alt=""></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[股市收评-创业板指跌近1% 无线耳机领跌两市]]></title>
         <id>https://christ2liu.github.io/blog/post/gu-shi-shou-ping-chuang-ye-ban-zhi-die-jin-1-wu-xian-er-ji-ling-die-liang-shi</id>
@@ -814,15 +823,6 @@
         </link>
         <updated>2019-11-20T08:22:55.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1574238198676.jpg" alt=""></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI产业链地图]]></title>
-        <id>https://christ2liu.github.io/blog/post/ai-chan-ye-lian-di-tu</id>
-        <link href="https://christ2liu.github.io/blog/post/ai-chan-ye-lian-di-tu">
-        </link>
-        <updated>2019-11-20T08:18:30.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1574238163568.jpg" alt=""></figure>
 ]]></content>
     </entry>
 </feed>
