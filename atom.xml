@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://christ2liu.github.io/blog</id>
     <title>RHINO牛博客</title>
-    <updated>2019-12-23T08:02:50.712Z</updated>
+    <updated>2019-12-23T08:07:55.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://christ2liu.github.io/blog"/>
     <link rel="self" href="https://christ2liu.github.io/blog/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://christ2liu.github.io/blog/images/avatar.png</logo>
     <icon>https://christ2liu.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2019, RHINO牛博客</rights>
+    <entry>
+        <title type="html"><![CDATA[传感器概念股]]></title>
+        <id>https://christ2liu.github.io/blog/post/chuan-gan-qi-gai-nian-gu</id>
+        <link href="https://christ2liu.github.io/blog/post/chuan-gan-qi-gai-nian-gu">
+        </link>
+        <updated>2019-12-23T08:05:21.000Z</updated>
+        <content type="html"><![CDATA[<p>MEMS传感器：友讯达、惠伦晶体、盾安环境、耐威科技、苏州固锝、士兰微、航天电器、通富微电、晶方科技、力源信息、华天科技 、汉威科技、康斯特、必创科技、森霸传感、苏奥传感、柯力传感。</p>
+<p>​影像传感器：晶方科技 、华天科技 、水晶光电 、苏州固锝</p>
+<p>​车用传感器：亚太股份、通富微电 、华工科技、 中航电测 、航天电子、 东风科技</p>
+<p>​流量传感器： 万讯自控、威尔泰、 汇中股份、 华工科技 、</p>
+<p>​温度传感器：华工科技、同方国芯</p>
+<p>​生物传感器：和佳股份 三诺生物</p>
+<p>​气体传感器：汉威电子</p>
+<p>​声波传感器:   歌尔股份</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最全的芯片上市公司！ ​]]></title>
         <id>https://christ2liu.github.io/blog/post/zui-quan-de-xin-pian-shang-shi-gong-si</id>
@@ -864,15 +880,6 @@
         </link>
         <updated>2019-11-28T08:06:15.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1574928423402.jpg" alt=""></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任正非：我们处在爆炸式创新的前夜]]></title>
-        <id>https://christ2liu.github.io/blog/post/ren-zheng-fei-wo-men-chu-zai-bao-zha-shi-chuang-xin-de-qian-ye</id>
-        <link href="https://christ2liu.github.io/blog/post/ren-zheng-fei-wo-men-chu-zai-bao-zha-shi-chuang-xin-de-qian-ye">
-        </link>
-        <updated>2019-11-28T08:04:52.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1574928362632.jpg" alt=""></figure>
 ]]></content>
     </entry>
 </feed>
