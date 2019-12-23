@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://christ2liu.github.io/blog</id>
     <title>RHINO牛博客</title>
-    <updated>2019-12-23T07:15:42.567Z</updated>
+    <updated>2019-12-23T08:02:50.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://christ2liu.github.io/blog"/>
     <link rel="self" href="https://christ2liu.github.io/blog/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://christ2liu.github.io/blog/images/avatar.png</logo>
     <icon>https://christ2liu.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2019, RHINO牛博客</rights>
+    <entry>
+        <title type="html"><![CDATA[最全的芯片上市公司！ ​]]></title>
+        <id>https://christ2liu.github.io/blog/post/zui-quan-de-xin-pian-shang-shi-gong-si</id>
+        <link href="https://christ2liu.github.io/blog/post/zui-quan-de-xin-pian-shang-shi-gong-si">
+        </link>
+        <updated>2019-12-23T08:01:34.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1577088130717.jpg" alt=""></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[股市收评-指数集体跌逾1% 科技股全线下挫]]></title>
         <id>https://christ2liu.github.io/blog/post/gu-shi-shou-ping-zhi-shu-ji-ti-die-yu-1-ke-ji-gu-quan-xian-xia-cuo</id>
@@ -864,15 +873,6 @@
         </link>
         <updated>2019-11-28T08:04:52.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1574928362632.jpg" alt=""></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北上资金逆式加仓的长线牛股]]></title>
-        <id>https://christ2liu.github.io/blog/post/bei-shang-zi-jin-ni-shi-jia-cang-de-chang-xian-niu-gu</id>
-        <link href="https://christ2liu.github.io/blog/post/bei-shang-zi-jin-ni-shi-jia-cang-de-chang-xian-niu-gu">
-        </link>
-        <updated>2019-11-28T07:54:46.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1574928262060.jpg" alt=""></figure>
 ]]></content>
     </entry>
 </feed>
