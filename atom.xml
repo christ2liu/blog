@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://christ2liu.github.io/blog</id>
     <title>RHINO牛博客</title>
-    <updated>2019-12-25T07:13:26.086Z</updated>
+    <updated>2019-12-25T08:24:52.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://christ2liu.github.io/blog"/>
     <link rel="self" href="https://christ2liu.github.io/blog/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://christ2liu.github.io/blog/images/avatar.png</logo>
     <icon>https://christ2liu.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2019, RHINO牛博客</rights>
+    <entry>
+        <title type="html"><![CDATA[中信的泛特斯拉产业链]]></title>
+        <id>https://christ2liu.github.io/blog/post/zhong-xin-de-fan-te-si-la-chan-ye-lian</id>
+        <link href="https://christ2liu.github.io/blog/post/zhong-xin-de-fan-te-si-la-chan-ye-lian">
+        </link>
+        <updated>2019-12-25T08:18:42.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1577262204694.jpg" alt=""></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[股市收评-指数午后探底回升 科技股高位震荡]]></title>
         <id>https://christ2liu.github.io/blog/post/gu-shi-shou-ping-zhi-shu-wu-hou-tan-di-hui-sheng-ke-ji-gu-gao-wei-zhen-dang</id>
@@ -993,15 +1002,6 @@
 <p>紫光国微：国产芯片龙头；</p>
 <p>卫宁健康：医用软件龙头；</p>
 <p>圣邦股份：模拟芯片龙头</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基金重仓股]]></title>
-        <id>https://christ2liu.github.io/blog/post/ji-jin-chong-cang-gu</id>
-        <link href="https://christ2liu.github.io/blog/post/ji-jin-chong-cang-gu">
-        </link>
-        <updated>2019-11-28T08:11:26.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1574928726728.jpg" alt=""></figure>
 ]]></content>
     </entry>
 </feed>
