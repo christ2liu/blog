@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://christ2liu.github.io/blog</id>
     <title>RHINO牛博客</title>
-    <updated>2020-01-17T07:43:15.245Z</updated>
+    <updated>2020-01-20T08:11:05.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://christ2liu.github.io/blog"/>
     <link rel="self" href="https://christ2liu.github.io/blog/atom.xml"/>
@@ -10,6 +10,111 @@
     <logo>https://christ2liu.github.io/blog/images/avatar.png</logo>
     <icon>https://christ2liu.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, RHINO牛博客</rights>
+    <entry>
+        <title type="html"><![CDATA[折算市盈率较低的科技股]]></title>
+        <id>https://christ2liu.github.io/blog/post/zhe-suan-shi-ying-lu-jiao-di-de-ke-ji-gu</id>
+        <link href="https://christ2liu.github.io/blog/post/zhe-suan-shi-ying-lu-jiao-di-de-ke-ji-gu">
+        </link>
+        <updated>2020-01-20T08:08:09.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1579507728298.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一张图看懂功率半导体，特斯拉带来汽车产业两大革命]]></title>
+        <id>https://christ2liu.github.io/blog/post/yi-zhang-tu-kan-dong-gong-lu-ban-dao-ti-te-si-la-dai-lai-qi-che-chan-ye-liang-da-ge-ming</id>
+        <link href="https://christ2liu.github.io/blog/post/yi-zhang-tu-kan-dong-gong-lu-ban-dao-ti-te-si-la-dai-lai-qi-che-chan-ye-liang-da-ge-ming">
+        </link>
+        <updated>2020-01-20T08:06:36.000Z</updated>
+        <content type="html"><![CDATA[<p>1、智能化：以LCD、OLED、CIS、GPU、CPU、DRAM、NAND、NOR、LED等数字逻辑半导体创新为主导的智能大脑。</p>
+<p>2、电动化：以SiC、IGBT、GaN、MOS等各种功率模拟半导体成为电池续航的创新驱动力的电控大脑。</p>
+<p>功率半导体作为电动化创新的底盘，具备战略赛道价值。</p>
+<p>1、赛道：功率半导体是必选消费品，人需要吃”柴米油盐“，机器同样也需要消耗功率器件，任何和电能转换有关地方都需要功率半导体。</p>
+<p>2、行业波动：符合大宗商品走势规律，产品和全球GDP走势密切相关，4-5年的行业波动非常吻合半导体周期规律。</p>
+<p>3、行业增长：需求来自各行各业，单机半导体（硅）含量的提升是核心规律。</p>
+<p>4、行业发展：所有技术进步都指向，1）更高的功率2）更小的体积3）更低的损耗4）更好的性价比。</p>
+<p>5、行业壁垒：参与竞争的主流厂商都是IDM模式，1）规模化前提下的质量品质2）每年各个产品成本优化情况下的效率提升。</p>
+<p>2020年投资机会来自于半导体周期复苏上行3-4年大周期环境中，IDM模式的企业比fabless在成本端上更有优势，建议关注相关产业链标的：闻泰科技（600745），捷捷微电（300623），扬杰科技（300373）</p>
+<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1579507676414.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[芯片器件]]></title>
+        <id>https://christ2liu.github.io/blog/post/xin-pian-qi-jian</id>
+        <link href="https://christ2liu.github.io/blog/post/xin-pian-qi-jian">
+        </link>
+        <updated>2020-01-20T08:06:04.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1579507592767.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CES 深度：科技巨头布局了哪些方向？]]></title>
+        <id>https://christ2liu.github.io/blog/post/ces-shen-du-ke-ji-ju-tou-bu-ju-liao-na-xie-fang-xiang</id>
+        <link href="https://christ2liu.github.io/blog/post/ces-shen-du-ke-ji-ju-tou-bu-ju-liao-na-xie-fang-xiang">
+        </link>
+        <updated>2020-01-20T08:05:14.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1579507550107.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019最具未来感科技企业TOP100]]></title>
+        <id>https://christ2liu.github.io/blog/post/2019-zui-ju-wei-lai-gan-ke-ji-qi-ye-top100</id>
+        <link href="https://christ2liu.github.io/blog/post/2019-zui-ju-wei-lai-gan-ke-ji-qi-ye-top100">
+        </link>
+        <updated>2020-01-20T08:04:23.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1579507508901.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半导体材料一揽 ]]></title>
+        <id>https://christ2liu.github.io/blog/post/ban-dao-ti-cai-liao-yi-lan</id>
+        <link href="https://christ2liu.github.io/blog/post/ban-dao-ti-cai-liao-yi-lan">
+        </link>
+        <updated>2020-01-20T08:02:59.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1579507458191.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重磅！一文看透下一个十年的10大趋势]]></title>
+        <id>https://christ2liu.github.io/blog/post/chong-bang-yi-wen-kan-tou-xia-yi-ge-shi-nian-de-10-da-qu-shi</id>
+        <link href="https://christ2liu.github.io/blog/post/chong-bang-yi-wen-kan-tou-xia-yi-ge-shi-nian-de-10-da-qu-shi">
+        </link>
+        <updated>2020-01-20T08:01:55.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1579507367155.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[股市收评-创业板指涨逾2.5% 病毒防治概念爆发]]></title>
+        <id>https://christ2liu.github.io/blog/post/gu-shi-shou-ping-chuang-ye-ban-zhi-zhang-yu-25-bing-du-fang-zhi-gai-nian-bao-fa</id>
+        <link href="https://christ2liu.github.io/blog/post/gu-shi-shou-ping-chuang-ye-ban-zhi-zhang-yu-25-bing-du-fang-zhi-gai-nian-bao-fa">
+        </link>
+        <updated>2020-01-20T07:51:32.000Z</updated>
+        <content type="html"><![CDATA[<p><em><strong>猎物不是分析而得的，猎物不是你所想到的，而是你看到的。相信你的眼睛，不要相信你的脑筋，更不要让你的脑筋动了你的眼睛。被脑筋所动的眼睛充满了成见，而所有的成见都不过对应着把你引向那最终陷阱的诱饵。市场无所谓分析，只要看和干！只要看和干！只要看和干！ ——————《缠中说禅》</strong></em></p>
+<p>今日盘面综述：</p>
+<p>周一，开盘3082.11 高开6.61 +0.21% 成交28.02亿。早盘指数震荡分化，创业板指涨近2%，沪指表现较弱。抗病毒医药概念全线走强，转基因、机场航运、旅游、影视传媒等走弱，半导体、海南等盘中拉升。个股涨跌互半，涨停30余家，炸板率高，市场氛围表现较差；午后上涨数增多，个股涨多跌少，涨停70余家，炸板率仍较高，市场氛围尚可。指数震荡走强，创业板指涨逾2.5%，创三年来新高，沪指涨0.6%。流感概念爆发，疫苗、口罩、检测试纸等细分医药股拉升，半导体、软件概念活跃，机场、旅游等领跌。截至收盘，上证指数涨0.66%，深证成指涨1.47%，创业板指涨2.57%。<br>
+综合看盘面偏弱，上涨1074家，下跌2554家；涨停48家，跌停8家；封板38家，开板15家；大盘黄白线黄上白下，今天收中阴线 创业板指涨逾2.5% 病毒防治概念爆发<br>
+盘面上看，新型冠状病毒疫情受到关注，流感板块全线爆发，并带动疫苗口罩等相关医药股走强，联环药业、海王生物、鲁抗医药等多股涨停；半导体概念持续拉升走强，富满电子、晶方科技、江丰电子涨停；国产软件午后拉升，格尔软件涨停；机场航运、景点旅游等板块走弱，吉祥航空、中国国航跌5%，首旅酒店、宋城演艺跌9%；影视传媒板块下挫，横店影视封跌停板，万达电影多次触板跌停。</p>
+<p>异动回顾：</p>
+<p>09:34 机场航运概念走弱，春秋航空跌近5%，吉祥航空、中国国航、南方航空、东方航空跟跌。</p>
+<p>09:40 汽车整车板块拉升，中通客车涨停，宇通客车、亚星客车、金龙汽车、长城汽车跟涨。</p>
+<p>09:43 证券板块异动拉升，财通证券涨3%，方正证券、浙商证券、招商证券、东北证券等小幅上涨。</p>
+<p>09:55 半导体及元件板块拉升，艾华集团逼近涨停，泰晶科技、扬杰科技、圣邦股份、兆易创新等跟涨。</p>
+<p>09:57 转基因板块大幅下挫，荃银高科跌超7%，大北农、隆平高科、万向德农、登海种业等跟跌。</p>
+<p>10:11 传媒板块走弱，万达电影、平治信息、横店影视等跌逾8%，此前大晟文化、引力传媒跌停。</p>
+<p>10:32 海南板块走强，海汽集团、海峡股份涨停，海航基础、海南高速、海南瑞泽跟涨。</p>
+<p>13:37 国产软件板块活跃，格尔软件涨停，恒实科技、绿盟科技、浩云科技、浪潮信息跟涨。</p>
+<p>消息面：</p>
+<p>1、达安基因：已针对新型冠状病毒研发出核酸试剂盒</p>
+<p>达安基因相关负责人回应记者：目前公司已经针对新型冠状病毒研发出了核酸试剂盒，不过尚未拿到正式注册资质，且目前已研发出相关产品的企业，均尚未拿到正式的注册资质。(第一财经)</p>
+<p>2、工信部正研究建立制造业产融合作白名单</p>
+<p>工信部部长苗圩在发布会上表示，确保制造业平稳增长，要多措并举拓展融资渠道。包括增加制造业中长期贷款和信用贷款的比重，提高对高技术制造业信贷的支持力度。研究建立制造业产融合作的白名单。引导金融机构对发展情况好的制造企业提供精准的金融服务，而不是因为一个行业去产能，就对所有的行业企业都停止贷款的支持。另外，对经营产品有市场，经营管理好的企业，虽然暂时资金遇到了困难，不随意抽贷、断贷。提前对接贷款到期还有续贷需求的企业，不要因为衔接问题出现资金流的断裂。</p>
+<p>投资建议：</p>
+<p>市场在估值快速抬升后已进入业绩匹配期，料业绩弹性对估值扩张的约束会越来越明显；增量资金流入仍有惯性，但预计节奏上春节后才会提速，且市场仍需时间消化第一阶段协议执行的结构影响。考虑资金流入节奏和增量资金偏好，以及业绩与估值匹配的“性价比”，节前是配置价值的最佳时点，建议重点关注银行、保险、食品饮料、家电、医药和医疗服务等板块</p>
+<p>今日操作：</p>
+<p>减仓保住2019年利润，减持持有大科技类股票为主（心里变化：卖出昨天买入的。买入一些半导体强势股）</p>
+<p>明日计划：</p>
+<p>等待机会卖出持仓，波段操作</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[股市收评-科创板全线走强 星期六尾盘大幅跳水]]></title>
         <id>https://christ2liu.github.io/blog/post/gu-shi-shou-ping-ke-chuang-ban-quan-xian-zou-qiang-xing-qi-liu-wei-pan-da-fu-tiao-shui</id>
@@ -718,171 +823,6 @@
         </link>
         <updated>2020-01-03T07:27:11.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1578036461144.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目前A股消费电子概念股]]></title>
-        <id>https://christ2liu.github.io/blog/post/mu-qian-a-gu-xiao-fei-dian-zi-gai-nian-gu</id>
-        <link href="https://christ2liu.github.io/blog/post/mu-qian-a-gu-xiao-fei-dian-zi-gai-nian-gu">
-        </link>
-        <updated>2020-01-03T07:26:00.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1578036419154.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020年的盘面]]></title>
-        <id>https://christ2liu.github.io/blog/post/2020-nian-de-pan-mian</id>
-        <link href="https://christ2liu.github.io/blog/post/2020-nian-de-pan-mian">
-        </link>
-        <updated>2020-01-03T07:25:07.000Z</updated>
-        <content type="html"><![CDATA[<p>券商是目前毫无疑问的核心板块，国投资本是领涨，明天会被顶一字板至少开8%以上，方正证券是券商套利卡位股，也是高溢价但不是核心，中信证券是本次两市的核心股，也是券商的核心灵魂中军，券商高度看中信。南京暂时就不用看了，它的1波使命已经结束，地位不如同期箭头，箭头使把劲跟着中信就可能怼出新高超过年初券商行情高点，这是券商唯一突破高位的人气票，南京周五是过了高点但是人心散了。</p>
-<p>资源股及建筑系有趋势（这个地方我个人认为更多的是低位的补涨轮动吧，低估值和高位科技股的高低切换）</p>
-<p>比如铜为有色资源的先锋品种，但弱逻辑（减产预期+利率下行预期），核心是江西铜业。钴则隶属新能源范畴，明年小幅供应缺口，还是那句话：2020年新能源资源看钴不看锂。</p>
-<p>煤+铝则为神火股份。</p>
-<p>建材的核心品种是水泥，500亿市值8.07PE的华新水泥新高、2800亿市值8.81PE的海螺水泥继续趋势新高，这个水泥趋势也会有资金做（有基本面支撑，水泥行业平均毛利率水平已经维持于历史高位），按市盈率和趋势选股，低PE小盘历史股性好的加分。</p>
-<p>食品饮料尤其是白酒，回调横盘从空间和时间上也差不多，基本面优质板块品种，也是共振指数上行，至于像之前一样单边上拱，还是洗洗睡。</p>
-<p>科技股涨多了，像立讯精密这高位消费电子肯定难涨上去，立讯也代表了消费科技行情的调整（甚至终结，立讯代表的终结是否成立取决于指数上行幅度带来的市场风偏）</p>
-<p>现在科技是比不上新的小甜甜，杀科技也能理解，至于有色资源建材食品饮料消费跑出超额收益不现实，后面还是靠结构性科技行情，目前则为市场高低位风偏切换中，券商核心板块用来打预期。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年末股价连续创新高的43只股票]]></title>
-        <id>https://christ2liu.github.io/blog/post/nian-mo-gu-jie-lian-xu-chuang-xin-gao-de-43-zhi-gu-piao</id>
-        <link href="https://christ2liu.github.io/blog/post/nian-mo-gu-jie-lian-xu-chuang-xin-gao-de-43-zhi-gu-piao">
-        </link>
-        <updated>2020-01-03T07:24:10.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1578036300724.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A股涨幅前50]]></title>
-        <id>https://christ2liu.github.io/blog/post/a-gu-zhang-fu-qian-50</id>
-        <link href="https://christ2liu.github.io/blog/post/a-gu-zhang-fu-qian-50">
-        </link>
-        <updated>2020-01-03T07:22:05.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1578036185354.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A股科技各板块行业龙头股]]></title>
-        <id>https://christ2liu.github.io/blog/post/a-gu-ke-ji-ge-ban-kuai-xing-ye-long-tou-gu</id>
-        <link href="https://christ2liu.github.io/blog/post/a-gu-ke-ji-ge-ban-kuai-xing-ye-long-tou-gu">
-        </link>
-        <updated>2020-01-03T07:20:17.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1578036108980.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[股市收评-指数窄幅震荡 转基因农业掀涨停潮]]></title>
-        <id>https://christ2liu.github.io/blog/post/gu-shi-shou-ping-zhi-shu-zhai-fu-zhen-dang-zhuan-ji-yin-nong-ye-xian-zhang-ting-chao</id>
-        <link href="https://christ2liu.github.io/blog/post/gu-shi-shou-ping-zhi-shu-zhai-fu-zhen-dang-zhuan-ji-yin-nong-ye-xian-zhang-ting-chao">
-        </link>
-        <updated>2020-01-03T07:07:08.000Z</updated>
-        <content type="html"><![CDATA[<p><em><strong>猎物不是分析而得的，猎物不是你所想到的，而是你看到的。相信你的眼睛，不要相信你的脑筋，更不要让你的脑筋动了你的眼睛。被脑筋所动的眼睛充满了成见，而所有的成见都不过对应着把你引向那最终陷阱的诱饵。市场无所谓分析，只要看和干！只要看和干！只要看和干！ ——————《缠中说禅》</strong></em></p>
-<p>今日盘面综述：</p>
-<p>周五，开盘3089.02 高开3.82 +0.12% 成交28.70亿。早盘指数小幅高开，随后窄幅震荡，午盘集体收绿。两市题材热点较不活跃，农业种植、油气采掘、黄金、军工等概念走高，白酒、流感等板块走弱。个股涨跌互半，涨停50余家，炸板率较高，市场氛围一般；午后探底回升，指数集体收红。转基因农业概念股掀起涨停潮，华为概念午后拉升，油气采掘、黄金概念、军工等涨幅居前。午后上涨个股增多，个股涨多跌少，涨停达80余家，成交量较昨日略有减少，市场氛围较为一般。截至收盘，上证指数跌0.05%，深证成指涨0.17%，创业板指涨0.18%。<br>
-综合看盘面偏强，上涨2049家，下跌1471家；涨停82家，跌停3家；封板72家，开板24家；大盘黄白线黄上白下，今天收阴十字星 指数窄幅震荡 转基因农业掀涨停潮<br>
-盘面上看，受转基因相关利好政策刺激，相关农业概念股掀起涨停潮，丰乐种业、敦煌种业、万向德农等午后拉升封板，板块内近十股涨停；美伊冲突致原油价格走高，油气采掘概念走强，中曼石油涨停，石化油服一度触板；现货黄金走高带动黄金概念拉升，风华高科，金洲慈航双双封板；国防军工板块盘中快速拉升，天和防务、洪都航空先后涨停；白酒概念走弱，龙头贵州茅台业绩增速不及预期，跌逾4%。</p>
-<p>异动回顾：</p>
-<p>09:31 农业种植板块开盘走强，大北农、隆平高科、农发种业集体涨停，登海种业、荃银高科涨逾6%。</p>
-<p>09:34 网红经济概念活跃，日出东方、元隆雅图涨停，星期六、金字火腿黑芝麻等涨逾8%。</p>
-<p>09:55 黄金概念走强，风华高科涨停，山东黄金、豫光金铅、恒邦股份、湖南黄金等小幅跟涨。</p>
-<p>10:00 采掘服务板块小幅拉升，中曼石油涨4%，惠博普、潜能恒信、贝肯能源等跟涨。</p>
-<p>10:05 MINILED板块异动拉升，万润科技拉升触板，兆驰股份涨超5%，华灿光电、东山精密、TCL集团、瑞丰光电等跟涨。</p>
-<p>10:11 证券板块拉升，国盛金控涨5%，财通证券、光大证券、中原证券、方正证券等跟涨。</p>
-<p>10:29 采掘服务板块走强，中曼石油涨停，潜能恒信涨超9%，贝肯能源、石化油服、惠博普、通源石油等跟涨。</p>
-<p>11:26 国防军工板块持续拉升，洪都航空拉升涨停，天和防务此前涨停，晨曦航空涨5%，中航电子、中兵红箭、北斗星通、中航飞机等跟涨。</p>
-<p>13:19 草甘膦板块持续拉升，丰乐种业、江山股份涨超8%，辉丰股份、新安股份、兴发集团等跟涨。</p>
-<p>13:33 玉米板块午后持续上涨，丰乐种业、敦煌种业涨停，万向德农、苏垦农发等跟涨。</p>
-<p>14:29 金融IC板块持续拉升，证通电子涨停，新大陆、信雅达等跟涨。</p>
-<p>消息面：</p>
-<p>1、美、布两油日内涨逾4%</p>
-<p>美伊冲突引发原油市场担忧，美、布两油日内涨逾4%，国内原油、燃油期货均涨逾2.5%。外媒报道，美官员声称在巴格达发动“与伊朗有关的”袭击。</p>
-<p>2、携程计划回港二次上市 陆续与多家投行接触</p>
-<p>携程计划回港二次上市，并于最近陆续接触了多家中资及外资投行。但是截至发稿，携程暂未正式挑选投行。(腾讯科技)</p>
-<p>投资建议：</p>
-<p>科技板块将是后续的主战场。科技产业周期有望爆发，影响股价的核心因素是业绩趋势而非短期估值贵贱。2020年个股走牛将从“外资50”切换至“科技50”。</p>
-<p>今日操作：</p>
-<p>减仓保住2019年利润，减持持有大科技类股票为主（心里变化：买入300173智慧松德；300315顺网科技；卖出300088长信科技；603005晶方科技；继续持有603799华友钴业；603986兆易创新；300379东方通；002351漫步者；）</p>
-<p>明日计划：</p>
-<p>等待机会卖出持仓，波段操作</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020年行情展望]]></title>
-        <id>https://christ2liu.github.io/blog/post/2020-nian-xing-qing-zhan-wang</id>
-        <link href="https://christ2liu.github.io/blog/post/2020-nian-xing-qing-zhan-wang">
-        </link>
-        <updated>2020-01-03T07:00:27.000Z</updated>
-        <content type="html"><![CDATA[<p>周末出了降准消息，大家都在解读，我就不废话了，每次降准出来大家都要分析，我觉得没有意义，因为每次降准第二天行情走势都不是必然，所以，我觉得不要思考这个事情比较好。。。</p>
-<p>红梯子在全部上行期间，满仓持股是基本要素，管他降准不降准，没有意义。。。我发现每次红梯子上行期间，容易出利好，下行期间，容易出利空，市场总有聪明资金先知先觉。。。。资本市场食物链很长。。。无数的黑手。。。。。。</p>
-<p>k线图而言呢，距离突破一步之遥。。。。</p>
-<p>如果周末不降准那么后2天就是个c，就是我前面下周展望里画的图，和前面合起来构成双123的震荡中枢，然后向上突破。。。</p>
-<p>降准了，有没有c，我不知道。如果高开低走，那就是有c，如果不高开低走，就是没有c，技术分析是事后解释用的，事前无限可能性。。。只有傻逼才拿技术分析当唯一性来天天说事儿。。。</p>
-<p>那么有C没有C的唯一区别就是加不加杠杆，如果有C，可以快速逢低加杠杆，博取后面十几个日线的收益。。。如果没有C，那么就持有的满仓继续涨就是了，也是十几天后减仓。。。</p>
-<p>一切都是最好的安排，不管消息面再变，股市都会按既定节奏循环运行。。。</p>
-<p>大概这个策略。。。</p>
-<p>想太多，讨论太多，没有任何意义。。。无数人成天就是讨论呀讨论呀，有个屁用。。。</p>
-<p>缠说：股市就是看和干，要么看，要么干，干错了割掉干新的。。。看不出就不干。。。继续看。。。知行合一。。。就这么简单。。。</p>
-<p>天天讨论，屁用没有。。。你让股市丑角李大霄自己去炒股，分分钟破产。。。</p>
-<p>前几天看了篇文章，写的真不错，其中有一段写研究股票和操作股票的区别，我觉得不错，大意是：研究讲究的是寻找逻辑和可能性，操作讲的是在可能性基础上面对市场真实走势的应对。。。</p>
-<p>应对就是最后一厘米，是一切的核心。。。很多人就是缺这一厘米，天天讨论研究，就是赚不到钱。。。这一厘米是要靠无数割肉血泪和内心钢铁般的冷血和逆人性才能做到的。。。</p>
-<p>书上学不来的。。。要靠无数次亏钱换来的。。。所以很多人天天问来问去的，一点意义都没有，你问到问不到，有啥用的？先亏亏看。。生死几次轮回，脑子够用的就开悟了。。。不亏钱，你拿10个金融学博士学位，都没用。。。。</p>
-<p>前面说的是元旦后2天的看法。。。</p>
-<p>下面说下2020年我的展望。。。</p>
-<p>荀玉根大师说牛市开始了。。。我也不知道开始没有。。。他可以拍脑袋。。。我要对我的钱负责。。。他看错了，换一篇文章继续看，我却会在坑里仰望星空，机会成本大于天。。。荀大师不会赔钱给我。。。</p>
-<p>不管是不是牛市，股市都是一波一波来的，你认真参与红梯子每个循环，就不会踏空牛市，也不会掉到坑里，天天喊牛市，牛市来了你就挣钱了？前面几轮大牛市，有几个人最后挣到钱了？牛市亏钱比熊市多多了！因为人嘚瑟！</p>
-<p>2020年我初步看法是市场大概可能也许会如图走</p>
-<figure data-type="image" tabindex="1"><img src="https://christ2liu.github.io/blog/post-images/1578035086181.png" alt="" loading="lazy"></figure>
-<p>不是绝对如图，我只能说大致这个节奏。</p>
-<p>前一波时间高度都不确定，只是节奏必完美，幅度没有意义，幅度是随机的。。。</p>
-<p>节奏拐点市场会给信号的，不要去臆想。。。。</p>
-<p>还有就是2020年最重要的就是躲过那个大坑，那个坑深度不知道，只是节奏必完美。。。</p>
-<p>深度可大可小，如果有消息面触发，就跌多一点，跌个800点我一点不奇怪，没有消息面共振，就跌少一点。。。</p>
-<p>无数人总和我讨论幅度，我的思维里没有幅度，所以我也不知道为啥要考虑幅度。。。幅度是市场自发形成的，预测那个是不是神经病？知道有节奏就行，节奏信号盘面能看到呀。。。预测你妹呀预测！</p>
-<p>后面大坑后，正好我回城，大牛市起航。。。</p>
-<p>补充一点：建议开通科创板，否则你会后悔终生。。。。</p>
-<p>再补充一点:牢记我刚才补充的那句话。。。</p>
-<p>一切都是根据个股情况随机应变，都是肉眼看到后的直觉艺术，非要看消息面和基本面来炒股，那找个中文系教授来交易就行了，还分析个鬼呀。。。炒股看的是市场认不认你的消息面和基本面，而不是你了解的基本面和消息面对不对。。对了，市场不认，有个屁用！不对，但是市场认为不对就是对，那就是对！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[股市收评-A股迎来开门红 指数集体涨逾1%]]></title>
-        <id>https://christ2liu.github.io/blog/post/gu-shi-shou-ping-a-gu-ying-lai-kai-men-hong-zhi-shu-ji-ti-zhang-yu-1</id>
-        <link href="https://christ2liu.github.io/blog/post/gu-shi-shou-ping-a-gu-ying-lai-kai-men-hong-zhi-shu-ji-ti-zhang-yu-1">
-        </link>
-        <updated>2020-01-02T07:31:36.000Z</updated>
-        <content type="html"><![CDATA[<p><em><strong>猎物不是分析而得的，猎物不是你所想到的，而是你看到的。相信你的眼睛，不要相信你的脑筋，更不要让你的脑筋动了你的眼睛。被脑筋所动的眼睛充满了成见，而所有的成见都不过对应着把你引向那最终陷阱的诱饵。市场无所谓分析，只要看和干！只要看和干！只要看和干！ ——————《缠中说禅》</strong></em></p>
-<p>今日盘面综述：</p>
-<p>周四，开盘3066.34 高开16.22 +0.53% 成交42.34亿。早盘指数高开后震荡走强，沪指逼近3100点，创业板指涨逾2%。题材热点活跃，网红经济、云游戏等涨幅居前，半导体板块持续拉升，券商股表现活跃。个股普涨，仅200余只个股下跌，涨停70余家，炸板率低，市场表现强势；午后高位盘整，深成指、创业板指均涨近2%。网红经济、游戏板块领涨两市，半导体、农业种植、流感、航运等表现活跃。个股普涨，涨停家数达到90余家创近期新高，成交量明显扩大，市场氛围表现较好。截至收盘，上证指数涨1.15%，深证成指涨1.99%，创业板指涨1.93%。<br>
-综合看盘面强，上涨3392家，下跌282家；涨停98家，跌停2家；封板84家，开板27家；大盘黄白线黄上白下，今天收大阳线 A股迎来开门红 指数集体涨逾1%<br>
-盘面上看，网红经济概念掀起涨停潮，拉芳家化、天创时尚午后拉升封板，板块内近十股先后涨停；游戏板块涨幅居前，美盛文化、顺网科技、完美世界等多股涨停；受武汉肺炎事件影响，流感概念午后快速拉升，联环药业拉升封板，欣龙控股尾盘涨停；半导体板块表现较强，泰晶科技、通富微电、东山精密等涨停；白酒概念领跌，贵州茅台跌逾4%。</p>
-<p>异动回顾：</p>
-<p>09:34 造纸板块早盘走强，民丰特纸、博汇纸业涨停，晨鸣纸业拉升触板，华泰股份、太阳纸业等跟涨。</p>
-<p>09:36 水泥板块持续拉升，四川金顶涨停，海螺水泥涨3%，金隅集团、冀东水泥、华新水泥、祁连山等跟涨。</p>
-<p>09:40 网红经济板块拉升走强，元隆雅图、粤传媒先后涨停，黑芝麻、星期六、中昌数据等纷纷跟涨。</p>
-<p>09:49 半导体及元件板块异动拉升，泰晶科技涨7%，汇顶科技、惠伦晶体、晶方科技等均涨逾5%。</p>
-<p>09:52 A股三大股指早盘持续走高，深成指涨逾1%，创2018年5月25日新高，上证指数涨0.77%，创业板指涨0.87%。</p>
-<p>09:56 证券板块走强，中国银河直线拉升封板，中信建投涨6%，南京证券、浙商证券等跟涨。</p>
-<p>10:27 云游戏板块持续走强，美盛文化、顺网科技涨停，游族网络、盛天网络、三七互娱等涨逾6%。</p>
-<p>10:37 深成指、创业板指皆涨逾2%，上证指数涨1.47%。</p>
-<p>13:04 网红经济板块午后继续拉升，拉芳家化、天创时尚先后涨停，汉鼎宇佑涨9%。</p>
-<p>13:22 玉米板块走强，隆平高科封涨停，登海种业涨超6%，万向德农、丰乐种业、苏垦农发、敦煌种业等跟涨。</p>
-<p>13:23 农业种植板块持续拉升，隆平高科、农发种业拉升涨停，大北农早前封板，登海种业、新农开发、万向德农等跟涨。</p>
-<p>13:50 流感板块异动拉升，联环药业涨停，鲁抗医药涨8%，天邦股份、生物股份、天康生物、瀚叶股份等跟涨。</p>
-<p>消息面：</p>
-<p>1、最高法：冻结上市公司股票一般不超过20%</p>
-<p>2020年1月2日，最高法出台《善意文明执行意见》。最高法审判委员会、执行局局长孟祥指出，《意见》明确严格禁止超标的查封和乱查封，冻结上市公司股票的应当以债权额为限计算出需要冻结的股票数量。在计算时，每股股票的价值以冻结前一交易日收盘价为基准，一般在不超过20%的幅度内确定，严格禁止超标的冻结市公司股票。(界面新闻)</p>
-<p>2、市场监管总局就《&lt;反垄断法&gt;修订草案》公开征求意见</p>
-<p>市场监管总局就《修订草案》公开征求意见，为预防和制止垄断行为，保护市场公平竞争，鼓励创新，提高经济运行效率，维护消费者利益和社会公共利益，促进社会主义市场经济健康发展。(市场监管总局)</p>
-<p>3、港交所据悉与网易、携程就二次上市进行洽谈</p>
-<p>港交所据悉与网易、携程就二次上市进行洽谈。</p>
-<p>投资建议：</p>
-<p>今年1月的外部环境符合大金融首先“躁动”的条件。战略层面，科技产业趋势仍然是今年最重要的主线。科技细分领域的景气度抬升会进一步确认成长股相对于主板的业绩趋势向上。成长股很有可能一如过去，接棒大金融成为春季行情中后期的主攻手。除了消费电子，科技股会内部扩散，新能源车、传媒、计算机、面板、PCB都有机会。</p>
-<p>今日操作：</p>
-<p>减仓保住2019年利润，减持持有大科技类股票为主（心里变化：买入300088长信科技；603005晶方科技；卖出002405四维图新；继续持有603799华友钴业；603986兆易创新；300379东方通；002351漫步者；）</p>
-<p>明日计划：</p>
-<p>等待机会卖出持仓，波段操作</p>
 ]]></content>
     </entry>
 </feed>
